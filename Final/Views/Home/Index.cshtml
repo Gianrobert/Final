@@ -1,0 +1,83 @@
+﻿@{
+    ViewData["Title"] = "Inicio";
+}
+
+<h1 class="text-center my-4">Panel de Administración</h1>
+
+<div class="container">
+    <div class="row">
+        <!-- Sección de Reservas -->
+        <div class="col-md-4 mb-4">
+            <div class="card" style="background-color: #e3f2fd; border: 1px solid #2196f3;">
+                <div class="card-header text-center" style="background-color: #2196f3; color: white;">
+                    <h5 class="card-title">Reservas</h5>
+                </div>
+                <div class="card-body text-center">
+                    <a asp-action="Index" asp-controller="Reserva" class="btn btn-outline-primary mb-2">Ver Reservas</a>
+                    <a asp-action="Create" asp-controller="Reserva" class="btn btn-outline-primary">Crear Reserva</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sección de Usuarios -->
+        <div class="col-md-4 mb-4">
+            <div class="card" style="background-color: #f1f8e9; border: 1px solid #8bc34a;">
+                <div class="card-header text-center" style="background-color: #8bc34a; color: white;">
+                    <h5 class="card-title">Usuarios</h5>
+                </div>
+                <div class="card-body text-center">
+                    <a asp-action="Index" asp-controller="Usuario" class="btn btn-outline-success mb-2">Ver Usuarios</a>
+                    <a asp-action="Create" asp-controller="Usuario" class="btn btn-outline-success">Crear Usuario</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sección de Equipos -->
+        <div class="col-md-4 mb-4">
+            <div class="card" style="background-color: #fff3e0; border: 1px solid #ff9800;">
+                <div class="card-header text-center" style="background-color: #ff9800; color: white;">
+                    <h5 class="card-title">Equipos</h5>
+                </div>
+                <div class="card-body text-center">
+                    <a asp-action="Index" asp-controller="Equipo" class="btn btn-outline-warning mb-2">Ver Equipos</a>
+                    <a asp-action="Create" asp-controller="Equipo" class="btn btn-outline-warning">Crear Equipo</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <!-- Sección de Pagos -->
+        <div class="col-md-4 mb-4">
+            <div class="card" style="background-color: #fce4ec; border: 1px solid #e91e63;">
+                <div class="card-header text-center" style="background-color: #e91e63; color: white;">
+                    <h5 class="card-title">Pagos</h5>
+                </div>
+                <div class="card-body text-center">
+                    <a asp-action="Index" asp-controller="Pago" class="btn btn-outline-danger mb-2">Ver Pagos</a>
+                    <a asp-action="Create" asp-controller="Pago" class="btn btn-outline-danger">Registrar Pago</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sección de Facturas -->
+        <div class="col-md-4 mb-4">
+            <div class="card" style="background-color: #f0f4c3; border: 1px solid #cddc39;">
+                <div class="card-header text-center" style="background-color: #cddc39; color: white;">
+                    <h5 class="card-title">Facturas</h5>
+                </div>
+                <div class="card-body text-center">
+                    <a asp-action="Index" asp-controller="Factura" class="btn btn-outline-success mb-2">Ver Facturas</a>
+                    <a asp-action="Create" asp-controller="Factura" class="btn btn-outline-success">Crear Factura</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<hr />
+
+<!-- Enlace para regresar al inicio -->
+<div class="text-center">
+    <a href="/" class="btn btn-dark">Volver al Inicio</a>
+</div>

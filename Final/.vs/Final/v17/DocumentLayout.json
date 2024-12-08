@@ -1,0 +1,814 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gianr\\source\\repos\\Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAB31D6-7DC9-4098-985E-6301D1B0BA7E}|..\\Final.application\\Final.application.csproj|c:\\users\\gianr\\source\\repos\\final.application\\final.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAB31D6-7DC9-4098-985E-6301D1B0BA7E}|..\\Final.application\\Final.application.csproj|c:\\users\\gianr\\source\\repos\\final.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED92B32-9D16-419D-A5B7-16FFFC3DA56F}|..\\Final.infraestructura\\Final.infraestructura.csproj|c:\\users\\gianr\\source\\repos\\final.infraestructura\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1538589-C09B-4256-A413-1066EB60A659}|..\\final.Domain\\final.Domain.csproj|c:\\users\\gianr\\source\\repos\\final.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\usuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\usuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\reserva\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\reserva\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\reserva\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\reserva\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\reserva\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\reserva\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\reserva\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\reserva\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\reserva\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\reserva\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\pagos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\pagos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\pagos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\pagos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\pagos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\pagos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\pagos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\pagos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\pagos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\pagos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\facturas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\facturas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\facturas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\facturas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\facturas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\facturas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\facturas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\facturas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\facturas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\facturas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\equipo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\equipo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\equipo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\equipo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\equipo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\equipo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\equipo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\equipo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\equipo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\equipo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\controllers\\equipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:controllers\\equipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\models\\finalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:models\\finalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\models\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:models\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|c:\\users\\gianr\\source\\repos\\final\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44978BEE-7216-463C-964D-8668549E7DD1}|Final.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 187,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Final.csproj",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Final.csproj",
+              "RelativeDocumentMoniker": "Final.csproj",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Final.csproj",
+              "RelativeToolTip": "Final.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T18:39:18.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Final.application.csproj",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final.application\\Final.application.csproj",
+              "RelativeDocumentMoniker": "..\\Final.application\\Final.application.csproj",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final.application\\Final.application.csproj",
+              "RelativeToolTip": "..\\Final.application\\Final.application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T18:38:50.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final.application\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Final.application\\Class1.cs",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final.application\\Class1.cs",
+              "RelativeToolTip": "..\\Final.application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:38:37.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final.infraestructura\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Final.infraestructura\\Class1.cs",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final.infraestructura\\Class1.cs",
+              "RelativeToolTip": "..\\Final.infraestructura\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:37:41.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\final.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\final.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\final.Domain\\Class1.cs",
+              "RelativeToolTip": "..\\final.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:36:20.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAIwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:37:55.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "Views\\Usuario\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:31:44.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Usuario\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuario\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Usuario\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Usuario\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:31:20.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Usuario\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuario\\Details.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Usuario\\Details.cshtml",
+              "RelativeToolTip": "Views\\Usuario\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:30:46.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Usuario\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuario\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Usuario\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Usuario\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:30:18.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Usuario\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuario\\Create.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Usuario\\Create.cshtml",
+              "RelativeToolTip": "Views\\Usuario\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:29:44.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Reserva\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reserva\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Reserva\\Index.cshtml",
+              "RelativeToolTip": "Views\\Reserva\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:29:04.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Reserva\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reserva\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Reserva\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Reserva\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:28:36.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Reserva\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reserva\\Details.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Reserva\\Details.cshtml",
+              "RelativeToolTip": "Views\\Reserva\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:28:07.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Reserva\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reserva\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Reserva\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Reserva\\Delete.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:27:22.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Pagos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pagos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Pagos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Pagos\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:26:05.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Pagos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pagos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Pagos\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Pagos\\Edit.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:25:34.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Pagos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pagos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Pagos\\Details.cshtml",
+              "RelativeToolTip": "Views\\Pagos\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:25:05.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Pagos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pagos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Pagos\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Pagos\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:24:40.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Pagos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pagos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Pagos\\Create.cshtml",
+              "RelativeToolTip": "Views\\Pagos\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:24:18.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Facturas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Facturas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Facturas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Facturas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:23:15.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Facturas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Facturas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Facturas\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Facturas\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:22:47.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Facturas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Facturas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Facturas\\Details.cshtml",
+              "RelativeToolTip": "Views\\Facturas\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:22:21.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Facturas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Facturas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Facturas\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Facturas\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:21:47.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Facturas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Facturas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Facturas\\Create.cshtml",
+              "RelativeToolTip": "Views\\Facturas\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:21:08.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Equipo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Equipo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Equipo\\Index.cshtml",
+              "RelativeToolTip": "Views\\Equipo\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:20:29.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Equipo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Equipo\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Equipo\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Equipo\\Edit.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:20:05.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Equipo\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Equipo\\Details.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Equipo\\Details.cshtml",
+              "RelativeToolTip": "Views\\Equipo\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:19:32.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Equipo\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Equipo\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Equipo\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Equipo\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:18:46.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Equipo\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Equipo\\Create.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Equipo\\Create.cshtml",
+              "RelativeToolTip": "Views\\Equipo\\Create.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:15:17.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PagosController.cs",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Controllers\\PagosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PagosController.cs",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Controllers\\PagosController.cs",
+              "RelativeToolTip": "Controllers\\PagosController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T05:47:54.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FacturasController.cs",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Controllers\\FacturasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FacturasController.cs",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Controllers\\FacturasController.cs",
+              "RelativeToolTip": "Controllers\\FacturasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T05:43:23.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EquipoController.cs",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Controllers\\EquipoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EquipoController.cs",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Controllers\\EquipoController.cs",
+              "RelativeToolTip": "Controllers\\EquipoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T05:40:24.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T05:34:17.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "Models\\Reserva.cs",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Models\\Reserva.cs",
+              "RelativeToolTip": "Models\\Reserva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T05:34:16.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Models\\Pago.cs",
+              "RelativeDocumentMoniker": "Models\\Pago.cs",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Models\\Pago.cs",
+              "RelativeToolTip": "Models\\Pago.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T05:34:14.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Models\\Factura.cs",
+              "RelativeDocumentMoniker": "Models\\Factura.cs",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Models\\Factura.cs",
+              "RelativeToolTip": "Models\\Factura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T05:34:12.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T05:34:10.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Models\\Equipo.cs",
+              "RelativeDocumentMoniker": "Models\\Equipo.cs",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Models\\Equipo.cs",
+              "RelativeToolTip": "Models\\Equipo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T05:34:08.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Reserva\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reserva\\Create.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Reserva\\Create.cshtml",
+              "RelativeToolTip": "Views\\Reserva\\Create.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T05:25:01.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T05:24:53.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T05:24:38.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwDIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T05:18:14.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ReservaController.cs",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Controllers\\ReservaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservaController.cs",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Controllers\\ReservaController.cs",
+              "RelativeToolTip": "Controllers\\ReservaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T05:17:51.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T05:15:43.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T05:06:39.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T05:02:33.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FinalContext.cs",
+              "DocumentMoniker": "C:\\Users\\gianr\\source\\repos\\Final\\Models\\FinalContext.cs",
+              "RelativeDocumentMoniker": "Models\\FinalContext.cs",
+              "ToolTip": "C:\\Users\\gianr\\source\\repos\\Final\\Models\\FinalContext.cs",
+              "RelativeToolTip": "Models\\FinalContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwBsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T05:01:18.857Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

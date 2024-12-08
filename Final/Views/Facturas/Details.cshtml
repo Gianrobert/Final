@@ -1,0 +1,53 @@
+﻿@model Final.Models.Factura
+
+@{
+    ViewData["Title"] = "Factura Details";
+}
+
+<h1 class="text-center my-4">Factura Details</h1>
+
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="card p-4 shadow-sm">
+            <h4>Factura</h4>
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.NumeroFactura)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.NumeroFactura)
+                </dd>
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.FechaEmision)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.FechaEmision)
+                </dd>
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.FechaVencimiento)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.FechaVencimiento)
+                </dd>
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Total)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Total)
+                </dd>
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Pago)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Pago.PagoId)
+                </dd>
+            </dl>
+            <div class="text-center mt-4">
+                <a asp-action="Edit" asp-route-id="@Model?.FacturaId" class="btn btn-primary">Edit</a>
+                <a asp-action="Index" class="btn btn-secondary ml-3">Back to List</a>
+            </div>
+        </div>
+    </div>
+</div>
+

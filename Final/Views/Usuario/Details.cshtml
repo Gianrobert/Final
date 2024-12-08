@@ -1,0 +1,51 @@
+﻿@model Final.Models.Usuario
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1 class="text-center my-4">Usuario Details</h1>
+
+<div class="container">
+    <h4>Usuario Information</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Apellido)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Apellido)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Telefono)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Telefono)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.TipoUsuario)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.TipoUsuario)
+        </dd>
+    </dl>
+
+    <!-- Edit and Back to List Links -->
+    <div class="mt-4">
+        <a asp-action="Edit" asp-route-id="@Model?.UsuarioId" class="btn btn-warning">Edit</a> |
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>
+

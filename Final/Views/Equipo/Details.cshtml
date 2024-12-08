@@ -1,0 +1,64 @@
+﻿@model Final.Models.Equipo
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1 class="text-center my-4">Equipo Details</h1>
+
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <h4 class="mt-3">Equipo Information</h4>
+        <hr />
+
+        <dl class="row">
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Nombre)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Nombre)
+            </dd>
+
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Descripcion)
+            </dd>
+
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Marca)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Marca)
+            </dd>
+
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Modelo)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Modelo)
+            </dd>
+
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.FechaAdquisicion)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.FechaAdquisicion)
+            </dd>
+
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Estado)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Estado)
+            </dd>
+        </dl>
+
+        <div class="d-flex justify-content-between mt-4">
+            <a asp-action="Edit" asp-route-id="@Model?.EquipoId" class="btn btn-warning btn-lg">Edit</a>
+            <a asp-action="Index" class="btn btn-secondary btn-lg">Back to List</a>
+        </div>
+    </div>
+</div>
+

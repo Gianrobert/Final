@@ -1,0 +1,66 @@
+﻿@model IEnumerable<Final.Models.Pago>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="text-center my-4">Pagos List</h1>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <p>
+                <a asp-action="Create" class="btn btn-success btn-lg">Create New</a>
+            </p>
+            <table class="table table-bordered table-striped table-hover">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Monto)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.FechaPago)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.MetodoPago)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Estado)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Reserva)
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Monto)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.FechaPago)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.MetodoPago)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Estado)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Reserva.ReservaId)
+                            </td>
+                            <td>
+                                <a asp-action="Edit" asp-route-id="@item.PagoId" class="btn btn-warning btn-sm">Edit</a> |
+                                <a asp-action="Details" asp-route-id="@item.PagoId" class="btn btn-info btn-sm">Details</a> |
+                                <a asp-action="Delete" asp-route-id="@item.PagoId" class="btn btn-danger btn-sm">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

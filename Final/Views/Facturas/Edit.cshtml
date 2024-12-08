@@ -1,0 +1,65 @@
+﻿@model Final.Models.Factura
+
+@{
+    ViewData["Title"] = "Edit Factura";
+}
+
+<h1 class="text-center my-4">Edit Factura</h1>
+
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="card p-4 shadow-sm">
+            <h4>Factura</h4>
+            <hr />
+            <form asp-action="Edit">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="FacturaId" />
+
+                <div class="form-group">
+                    <label asp-for="PagoId" class="control-label">Pago</label>
+                    <select asp-for="PagoId" class="form-control" asp-items="ViewBag.PagoId"></select>
+                    <span asp-validation-for="PagoId" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="NumeroFactura" class="control-label">Número de Factura</label>
+                    <input asp-for="NumeroFactura" class="form-control" />
+                    <span asp-validation-for="NumeroFactura" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="FechaEmision" class="control-label">Fecha de Emisión</label>
+                    <input asp-for="FechaEmision" class="form-control" />
+                    <span asp-validation-for="FechaEmision" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="FechaVencimiento" class="control-label">Fecha de Vencimiento</label>
+                    <input asp-for="FechaVencimiento" class="form-control" />
+                    <span asp-validation-for="FechaVencimiento" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Total" class="control-label">Total</label>
+                    <input asp-for="Total" class="form-control" />
+                    <span asp-validation-for="Total" class="text-danger"></span>
+                </div>
+
+                <div class="form-group text-center">
+                    <input type="submit" value="Save" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="text-center mt-4">
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+

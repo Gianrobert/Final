@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Final.Models.Equipo>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="text-center my-4">Equipos List</h1>
+
+<div class="text-right mb-3">
+    <a asp-action="Create" class="btn btn-success btn-lg">Create New</a>
+</div>
+
+<table class="table table-striped table-bordered table-hover">
+    <thead class="thead-dark">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Nombre)</th>
+            <th>@Html.DisplayNameFor(model => model.Descripcion)</th>
+            <th>@Html.DisplayNameFor(model => model.Marca)</th>
+            <th>@Html.DisplayNameFor(model => model.Modelo)</th>
+            <th>@Html.DisplayNameFor(model => model.FechaAdquisicion)</th>
+            <th>@Html.DisplayNameFor(model => model.Estado)</th>
+            <th class="text-center">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+                <td>@Html.DisplayFor(modelItem => item.Descripcion)</td>
+                <td>@Html.DisplayFor(modelItem => item.Marca)</td>
+                <td>@Html.DisplayFor(modelItem => item.Modelo)</td>
+                <td>@Html.DisplayFor(modelItem => item.FechaAdquisicion)</td>
+                <td>@Html.DisplayFor(modelItem => item.Estado)</td>
+                <td class="text-center">
+                    <a asp-action="Edit" asp-route-id="@item.EquipoId" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-action="Details" asp-route-id="@item.EquipoId" class="btn btn-info btn-sm">Details</a>
+                    <a asp-action="Delete" asp-route-id="@item.EquipoId" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

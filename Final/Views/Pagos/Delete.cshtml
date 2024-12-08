@@ -1,0 +1,60 @@
+﻿@model Final.Models.Pago
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1 class="text-center my-4">Delete Pago</h1>
+
+<h3 class="text-center text-danger">Are you sure you want to delete this?</h3>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <h4>Pago Details</h4>
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Monto)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Monto)
+                </dd>
+
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.FechaPago)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.FechaPago)
+                </dd>
+
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.MetodoPago)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.MetodoPago)
+                </dd>
+
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Estado)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Estado)
+                </dd>
+
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Reserva)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Reserva.ReservaId)
+                </dd>
+            </dl>
+
+            <form asp-action="Delete" class="text-center">
+                <input type="hidden" asp-for="PagoId" />
+                <button type="submit" class="btn btn-danger btn-lg">Delete</button>
+                <a asp-action="Index" class="btn btn-secondary btn-lg ml-3">Back to List</a>
+            </form>
+        </div>
+    </div>
+</div>

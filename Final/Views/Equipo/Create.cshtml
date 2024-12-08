@@ -1,0 +1,75 @@
+﻿@model Final.Models.Equipo
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1 class="text-center my-4">Create New Equipo</h1>
+
+<h4 class="text-center">Complete the details below</h4>
+<hr />
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+            <!-- Nombre -->
+            <div class="form-group">
+                <label asp-for="Nombre" class="control-label">Equipo Name</label>
+                <input asp-for="Nombre" class="form-control" placeholder="Enter equipo name" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+
+            <!-- Descripción -->
+            <div class="form-group">
+                <label asp-for="Descripcion" class="control-label">Description</label>
+                <input asp-for="Descripcion" class="form-control" placeholder="Enter a short description" />
+                <span asp-validation-for="Descripcion" class="text-danger"></span>
+            </div>
+
+            <!-- Marca -->
+            <div class="form-group">
+                <label asp-for="Marca" class="control-label">Brand</label>
+                <input asp-for="Marca" class="form-control" placeholder="Enter brand name" />
+                <span asp-validation-for="Marca" class="text-danger"></span>
+            </div>
+
+            <!-- Modelo -->
+            <div class="form-group">
+                <label asp-for="Modelo" class="control-label">Model</label>
+                <input asp-for="Modelo" class="form-control" placeholder="Enter model name" />
+                <span asp-validation-for="Modelo" class="text-danger"></span>
+            </div>
+
+            <!-- Fecha Adquisición -->
+            <div class="form-group">
+                <label asp-for="FechaAdquisicion" class="control-label">Acquisition Date</label>
+                <input asp-for="FechaAdquisicion" class="form-control" type="date" />
+                <span asp-validation-for="FechaAdquisicion" class="text-danger"></span>
+            </div>
+
+            <!-- Estado -->
+            <div class="form-group">
+                <label asp-for="Estado" class="control-label">Condition</label>
+                <input asp-for="Estado" class="form-control" placeholder="Enter equipment condition" />
+                <span asp-validation-for="Estado" class="text-danger"></span>
+            </div>
+
+            <!-- Botón de Envío -->
+            <div class="form-group text-center mt-4">
+                <input type="submit" value="Create" class="btn btn-success btn-lg" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="text-center mt-3">
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
